@@ -102,11 +102,11 @@ a{
 }
 .sidenav > li.active > a{
 	color: #fff !important;
-    background: #09bbbe !important;
+    background: #a94442 !important;
 	/* background: #e7f5f3; */
 }
 .sidenav > li > a:hover{
-	color:#09bbbe;
+	color:#a94442;
 	background: #f8f8f8;
 }
 .sidenav > li > a i{
@@ -143,11 +143,11 @@ a{
 	display:none;
 }
 .subnav .subnav_content li.active a{
-	color:#09bbbe !important;
+	color:#a94442 !important;
 	background: #f3f3f3 !important;
 }
 .subnav .subnav_content li a:hover{
-	color:#09bbbe !important;
+	color:#a94442 !important;
 	background: #f5f5f5 !important;
 }
 .admin_wrapper_content{
@@ -192,7 +192,7 @@ a{
 }
 .dasboard_card_btn{
 	float: right;
-    background: #09bbbe;
+    background: #a94442;
     color: #fff;
     padding: 1px 7px;
     font-size: 11px;
@@ -238,7 +238,7 @@ a{
 .dasboard_card_grey .dasboard_card_details::after{
 	border-bottom: 3px solid #828282;
 }.dasboard_card_theme .dasboard_card_details::after{
-	border-bottom: 3px solid #09bbbe;
+	border-bottom: 3px solid #a94442;
 }
 .dasboard_card_info{
 	font-size: 11px;
@@ -304,7 +304,7 @@ a{
 }
 .dataTables_length label{
 	font-weight: 500;
-	color: #09bbbe;
+	color: #a94442;
 }
 .dataTables_length label select{
 	margin: 0 5px;
@@ -316,7 +316,7 @@ a{
 }
 .dataTables_filter label{
 	font-weight: 500;
-	color: #09bbbe;
+	color: #a94442;
 }
 .dataTables_filter label input{
 	margin: 0 0 0 5px; 
@@ -335,12 +335,12 @@ a{
     z-index: 3;
     color: #fff;
     cursor: default;
-    background-color: #09bbbe;
-    border-color: #09bbbe;
+    background-color: #a94442;
+    border-color: #a94442;
 	outline:none;
 }
 .pagination>li>a, .pagination>li>span{
-	color: #09bbbe;
+	color: #a94442;
 	outline:none!important;
 	font-size: 13px;
     line-height: 15px;
@@ -470,8 +470,8 @@ a{
     color: #fff;
 }
 .tree-wrap .node .node_content.active_driver{
-	background: #09bbbe;
-	border-color: #09bbbe;
+	background: #a94442;
+	border-color: #a94442;
     color: #fff;
 }
 .tree-wrap .node_content .node_content_info{
@@ -686,7 +686,7 @@ section.login-structure:before {
     float: left;	
 }	
 .panel_wrap .panel .settings-menu a.active {
-    background-color: #09bbbe;
+    background-color: #a94442;
 }
 span.pas-err {
     float: left;
@@ -721,7 +721,7 @@ span.pas-succ {
 .below-files button.btn.up-cho {
     width: 47%;
     color: #fff;
-    background-color: #09bbbe;
+    background-color: #a94442;
     height: 40px;
 }
 .upper-files {
@@ -733,7 +733,7 @@ span.pas-succ {
 .upper-files button.btn.up-cho {
     width: 47%;
     color: #fff;
-    background-color: #09bbbe;
+    background-color: #a94442;
     height: 40px;
 }
 .form-horizontal .form-group{
@@ -842,9 +842,9 @@ form.form-horizontal h5 {
 
 }
 .menu-admin-links ul.avr-menus li a {
-    border: 1px solid #09bbbe;
+    border: 1px solid #a94442;
     color: #fff;
-    background-color: #09bbbe;
+    background-color: #a94442;
     font-size: 14px;
     padding: 3px 24px;
     border-radius: 4px;
@@ -901,9 +901,9 @@ ul.avr-menus li.dtn:hover .post-abs{
     border-bottom: 1px solid #ddd;
 }
 .menu-admin-links ul.drp-menus li a:hover{
-    border: 1px solid #09bbbe;
+    border: 1px solid #a94442;
     color: #fff;
-    background-color: #09bbbe;
+    background-color: #a94442;
 }
 .header_wrapper_logo img {
     width: auto;
@@ -937,7 +937,7 @@ ul.avr-menus li.dtn:hover .post-abs{
 }
 .delect-points .fa:hover {
     color: #ffffff;
-    background-color: #09bbbe;
+    background-color: #a94442;
 }
 .view-property-tabs {
     width: 100%;
@@ -955,12 +955,12 @@ ul.avr-menus li.dtn:hover .post-abs{
 
 }
 .view-property-tabs .nav>li>a:focus, .view-property-tabs .nav>li>a:hover{
-    background-color: #09bbbe;
+    background-color: #a94442;
 	color:#fff;
 }
 .view-property-tabs .nav-tabs>li.active>a, .view-property-tabs .nav-tabs>li.active>a:focus, .view-property-tabs .nav-tabs>li.active>a:hover{
-      background-color: #09bbbe;
-    border: 1px solid #09bbbe;
+      background-color: #a94442;
+    border: 1px solid #a94442;
     border-bottom-color: transparent;
     color: #fff!important;
 }
