@@ -1,0 +1,12 @@
+.member-error-failed{
+	display: none;
+}
+.member-error-success{
+	display: none;
+}
+.session-error-msg-failed-success{
+	display: none;
+}
+.common-admin-error-message{
+	display: none;
+}

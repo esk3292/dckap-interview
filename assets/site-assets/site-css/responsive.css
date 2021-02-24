@@ -1,0 +1,451 @@
+
+
+@media only screen and (min-width: 1024px) and (max-width: 1200px)
+
+{
+.cap {
+    position: absolute;
+    top: 0px;
+    top: 200px;
+    right: 52%!important;
+    left: 2%!important;
+    font-family: OpenSansSemibold;
+}
+
+.container {
+    padding-right: 0px;
+  padding-left: 0px; 
+ margin-right: auto; 
+   margin-left: auto; 
+}
+
+.reasontochooseus .image img {    width: 100%;}
+
+.reasontochooseus .content {
+    position: absolute;
+    top: 125px;
+    padding: 55px;
+    margin-left: 0px;
+    font-family: OpenSansSemibold;
+}
+
+.reasontochooseus .right {
+    font-family: OpenSansSemibold;
+    text-align: center;}
+
+.clickbook {
+    margin-top: 25px;
+    width: 210px;}
+	
+	.space h4 {
+    font-size: 13px;
+}
+.wedomore {
+    padding: 30px;}
+	.space {
+    margin-left: 22px;
+}
+.mobileapp {
+    padding-bottom: 425px;}
+}
+
+
+	@media only screen and (max-width: 1023px)
+{
+
+.cap {
+    position: absolute;
+    top: 0px;
+    top: 100px;
+    right: 0%!important;
+    left: 0%!important;
+    font-family: OpenSansSemibold;
+}
+
+.reasontochooseus .content {
+position: absolute;
+    top: 200px;
+    padding: 50px;
+    margin-left: 26px;
+    font-family: OpenSansSemibold;
+}
+
+.reasontochooseus .content h4{    font-size: 18px;}
+
+.reasontochooseus p {
+    font-size: 15px;}
+	
+	.clickbook {
+    width: 150px;}
+	
+	    .spacenone{display: none;}
+		 .spacefull{width: 100%;}
+		 
+		 .wedomore {
+    background-image: none;}
+
+.reasontochooseus .right {
+    font-family: OpenSansSemibold;
+    text-align: center;
+    margin-top: 10px;
+    color: #007dbf;
+}
+
+.reasontochooseus .image img {    width: 100%;}
+
+
+.mobileapp .content {
+   margin-left: 0px;
+    margin-top: 0px; 
+}
+
+.mobileapp {
+        font-family: OpenSansSemibold;
+    padding: 30px;
+    padding-bottom: 350px;
+	    background-image: url(../images/phonebanner.jpg);
+    background-size: cover;
+    width: 100%;
+	}
+	
+	.about .content {
+  text-align: justify; 
+    border: 1px solid #eee;
+    padding: 15px;
+}
+
+.content1 p {
+    line-height: 15px;
+    font-size: 11px;
+}
+.navbar-brand img {
+    margin-left: 20px;
+    height: 100px;
+    margin-top: 10px;
+}
+.navbar-right {
+    float: right;
+  margin-top: 40px; 
+
+}
+
+.nav>li>a {
+    position: relative;
+    display: block;
+    padding: 10px 6px;
+}
+
+.dt {
+ margin-bottom: 0px;
+}
+
+.bookforaride .top {
+    font-family: OpenSansSemibold;
+    text-align: center;
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+
+.form-group {
+   margin-bottom: 0px; 
+}
+	
+	/* Fares */
+	
+	.ban1 .navbar-brand img {
+    margin-left: 20px;
+    height: 50px;
+    margin-top: 10px;
+}
+	
+	
+	
+	
+}
+	
+	
+	@media only screen and (max-width: 767px)
+{
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color: #e7e7e7;
+    background-color: #6e7576!important;
+}
+
+.navbar-brand img {     margin-top: 0px!important;
+    height: 50px;} 
+
+	.bookforaride {
+	    padding: 10px;width: 100%;
+    background-size: cover;
+}
+.wedomore .content{      margin-top: 400px;
+    text-align: justify;
+    width: 100%;}
+.customerwords {  padding: 20px;}
+	   
+	   .cwtop h2{font-size: 15px;}
+	   
+	   .mobileapp .content {
+     margin-left: 0px; padding-top: 25px;
+text-align: center; }
+	 
+	   .mobileapp .content p{  text-align: justify;}
+	   
+	   .mobileapp .logo2 img {
+    margin-left: 0px;
+    margin-bottom: 15px;}
+	
+	.mobileapp .content h3 {
+    font-size: 25px;
+}
+	 
+	 .mobileapp {
+    padding: 0px;}
+	   
+	   .space {
+    margin-left: 0px; 
+}
+
+.space h4 {
+    font-size: 15px;
+}
+
+.ico img{height: 50px;}
+
+	   .item h4 {
+    font-size: 14px;
+    line-height: 1.375em;
+    font-weight: 400;
+    font-style: italic;
+    margin: 25px 0;
+	    text-align: justify;
+}
+	   
+	   .cwtop img{   text-align: center;
+    width: 100%;}
+	
+	.wedomore h3 {
+    font-size: 24px;
+}
+
+   .reasontochooseus .image img{    width: 100%;}
+   
+   .reasontochooseus .right {
+    font-family: OpenSansSemibold;
+    text-align: center;
+    margin-top: 5px;
+    color: #007dbf;
+}
+
+.navbar-default {
+    background-color: transparent;
+    border-color: transparent;
+    z-index: 99;
+}
+
+.navbar-right {
+    margin-top: 5px;
+	float:none!important;
+    text-align: center;
+    padding: 10px;
+}
+
+.box {
+    border: 2px solid white;
+   margin-left: 0px;}
+   
+   .reasontochooseus  .top h3 {    font-size: 20px;
+   
+   }
+   
+	.wedomore {
+    font-family: OpenSansSemibold;
+    padding: 0px!important;
+    background-image: url(../images/carbg.jpg);
+    height: 560px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+	}
+	
+	.ico {    text-align: center;}
+	
+	.ico p {
+    font-size: 14px;
+    text-align: justify!important;}
+
+
+.wedomore .right {
+    font-family: OpenSansSemibold;
+    margin-top: 15px;
+    color: #007dbf;
+	text-align: center!important;
+}
+
+.wedomore .right1 {text-align: center!important;
+width: auto!important;
+}
+.about .content {
+    text-align: justify;
+    border: 1px solid #eee;
+ padding: 10px;
+}
+
+.about h4{text-align: center;}
+
+.about .container {
+     padding-right: 0px; 
+    padding-left: 0px; }
+	
+	.content1 p {
+    line-height: 30px;
+    font-size: 11px;
+}
+
+.reasontochooseus .content {
+    position: absolute;
+    top: 345px;
+    padding: 90px;
+	background-size: cover;
+}
+	
+	.clickbook {
+    margin-top: 25px;
+    width: 220px;}
+	.top img {
+    margin-top: 10px;
+    width: 100%;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #fff;
+}
+
+.ban1 .navbar-toggle .icon-bar {
+    background-color: #064a76!important;
+}
+
+
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: #a6cc38;
+}
+.ban1 .navbar-toggle:focus, .ban1 .navbar-toggle:hover {
+    background-color: white!important;
+}
+
+.ban1 .navbar-collapse, .ban1 .navbar-form {
+    border-color: #e7e7e7;
+    background-color: #ffffff!important;
+}
+.cap {
+    position: absolute;
+    top: 0px;
+      top: 45px;
+    right: 0%!important;
+    left: 0%!important;
+    font-family: OpenSansSemibold;
+}
+
+.bannerheading {
+    font-size: 14px;
+    font-family: OpenSansSemibold;
+    color: #fff;
+}
+
+.reasontochooseus {
+    padding-bottom: 0px; 
+    padding-top: 0px; 
+    background-image: none; 
+}
+
+.top {
+ margin-bottom: 0px;
+}
+/* fares */
+.tables .tab{    overflow: auto;}
+.tables li {
+    font-family: arial;
+    padding: 5px;
+    font-size: 10px;
+    line-height: 15px;
+}
+.bgselect .form-control {
+    display: block;
+    width: 100%;
+    font-family: OpenSansSemibold;
+    height: 40px!important;
+    border-radius: 5px!important;
+}
+}
+
+	@media only screen and (max-width: 567px)
+{
+.reasontochooseus .content {
+    position: absolute;
+    top: 195px;
+    padding: 40px;
+}
+.cap {display:none;}
+.bookforaride {
+    padding: 10px;
+    width: 100%;
+    margin-top: 100px;
+    background-size: cover;
+}
+/* fares */
+.tables .tab{    overflow: auto;}
+.tables li {
+    font-family: arial;
+    padding: 5px;
+    font-size: 10px;
+    line-height: 15px;
+}
+.bgselect .form-control {
+    display: block;
+    width: 100%;
+    font-family: OpenSansSemibold;
+    height: 40px!important;
+    border-radius: 5px!important;
+}
+}
+
+	@media only screen and (max-width: 320px)
+{
+.reasontochooseus .content {
+    position: absolute;
+    top: 116px;
+    padding: 32px;
+    left: 5px;
+}
+
+.reasontochooseus .content h4 {
+    font-size: 14px;
+}
+
+.reasontochooseus p {
+    font-size: 13px;
+}
+.cap {display:none;}
+
+/* fares */
+.tables .tab{    overflow: auto;}
+.tables li {
+    font-family: arial;
+    padding: 5px;
+    font-size: 10px;
+    line-height: 15px;
+}
+.bgselect .form-control {
+    display: block;
+    width: 100%;
+    font-family: OpenSansSemibold;
+    height: 40px!important;
+    border-radius: 5px!important;
+}
+}
+
+
+
+
+
+

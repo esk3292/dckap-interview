@@ -1,0 +1,37 @@
+.panel.new_forming label {
+    font-size: 12px;
+    font-weight: normal;
+}
+
+button.btn.btn-default.add_fld {
+    background: #09bbbe;
+    color: white;
+    border-radius: 0;
+    border: none;
+}
+
+button.btn.btn-default.add_lvl {
+    background: #FFC107;
+    color: white;
+    border: none;
+    border-radius: 0;
+    margin-left: 20px;
+}
+
+button.btn.btn-default.new_submit {
+    background: #09bbbe;
+    color: white;
+}
+
+button.btn.btn-default.new_cancel {
+    background: #e7e7e8;
+}
+
+.panel.new_forming input {
+    width: 47%;
+}
+
+.panel.new_forming select
+{
+	 width: 47%;
+}
